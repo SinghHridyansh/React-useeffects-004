@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,400&display=swap");
+.pictures {
+  transition: 0.1s ease-in-out;
+  cursor: pointer;
+  margin-bottom: 12px;
+  border: 2px solid grey;
+  margin: 3vh 3vh;
+  font-family: "Lato", sans-serif;
+  border-radius: 3vh;
+  padding: 1vh;
+  background-color: white;
+}
+p {
+  font-weight: 600;
+}
+.images {
+  width: 100%;
+}
